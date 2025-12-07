@@ -1,1 +1,1 @@
-
+1 Usar blog de notas y alli escribir la estructura del programa datos importantes del desarollo, asi se tiene un mejor control y luego es solo pasar
